@@ -1,0 +1,3 @@
+<svg viewBox="0 0 200 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 0,0 L 200,0 L 200,100 Q 100,30 0,100 Z" fill="white"/>
+</svg>
