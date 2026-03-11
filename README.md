@@ -10,7 +10,7 @@ The Explorarium app is currently still being worked on adding more functionality
 
 The download uses Inno Setup which is windows only. If you want to build the app in other operating systems try [building](#building)
 
-[Download](https://github.com/CMDR-Regza/Explorarium/releases) &nbsp; | &nbsp; [Discord Server](https://discord.gg/JVNDFJVRKp)
+[Download](https://github.com/CMDRRegza/Explorarium/releases) &nbsp; | &nbsp; [Discord Server](https://discord.gg/JVNDFJVRKp)
 
 </div>
 
